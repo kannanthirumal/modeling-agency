@@ -1,0 +1,22 @@
+.gradient-background {
+  background: linear-gradient(300deg, #91d18b, #e11d74);
+}
+
+/* .gradient-background-footer {
+  background: linear-gradient(120deg, #91d18b, #e11d74);
+} */
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.landing-page-image {
+  max-width: 100%;
+}
